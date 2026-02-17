@@ -7,7 +7,7 @@ Codul este structurat astfel:
 
 Teoretic comentariile explică ce se întâmplă.
 Video-uri și alte lucruri:
-https://drive.google.com/drive/folders/1scA5KoGlwHWc5Lwvqdc-O_jEvWnB92zt?usp=drive_link
+[video](https://drive.google.com/drive/folders/1scA5KoGlwHWc5Lwvqdc-O_jEvWnB92zt?usp=drive_link)
 
 
 RESURSE:
